@@ -1,0 +1,97 @@
+[
+    {
+        "id": 1,
+        "title": "Python Backend Developer",
+        "company": "Tech Solutions",
+        "location": "Kathmandu",
+        "skills": [
+            "python",
+            "fastapi",
+            "django",
+            "rest api",
+            "mongodb",
+            "postgresql",
+            "docker",
+            "git"
+        ],
+        "education": [
+            "computer science",
+            "computer engineering",
+            "software engineering"
+        ],
+        "experience_required": 2,
+        "description": "Develop scalable backend applications using Python, FastAPI and Django. Build REST APIs and work with MongoDB and PostgreSQL databases.",
+        "employment_type": "Full-time"
+    },
+    {
+        "id": 2,
+        "title": "Machine Learning Engineer",
+        "company": "AI Labs",
+        "location": "Kathmandu",
+        "skills": [
+            "python",
+            "machine learning",
+            "tensorflow",
+            "pytorch",
+            "numpy",
+            "pandas",
+            "scikit-learn",
+            "sql"
+        ],
+        "education": [
+            "computer science",
+            "computer engineering",
+            "data science"
+        ],
+        "experience_required": 2,
+        "description": "Build machine learning models and data pipelines using Python, TensorFlow, PyTorch and Scikit-learn.",
+        "employment_type": "Full-time"
+    },
+    {
+        "id": 3,
+        "title": "DevOps Engineer",
+        "company": "Cloud Nepal",
+        "location": "Kathmandu",
+        "skills": [
+            "linux",
+            "docker",
+            "kubernetes",
+            "aws",
+            "jenkins",
+            "terraform",
+            "python",
+            "git",
+            "ci/cd"
+        ],
+        "education": [
+            "computer science",
+            "computer engineering",
+            "information technology"
+        ],
+        "experience_required": 3,
+        "description": "Manage cloud infrastructure, Kubernetes clusters, CI/CD pipelines and AWS deployments.",
+        "employment_type": "Full-time"
+    },
+    {
+        "id": 4,
+        "title": "Frontend Developer",
+        "company": "WebSoft",
+        "location": "Pokhara",
+        "skills": [
+            "html",
+            "css",
+            "javascript",
+            "react",
+            "typescript",
+            "git"
+        ],
+        "education": [
+            "computer science",
+            "software engineering",
+            "information technology"
+        ],
+        "experience_required": 1,
+        "description": "Develop responsive web applications using React, JavaScript and TypeScript.",
+        "employment_type": "Full-time"
+    }
+]
